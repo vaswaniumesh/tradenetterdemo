@@ -1,9 +1,11 @@
 Trade Netter Demo 
 Instructions for download
+
 Option 1
 1. Download the code or clone the repository
 2. Open the soltion file located src\CF.TradeNetter\CF.TradeNetter.sln
 3. Build the code (dependant nuget package needs to be downloaded)
+
 Option 2
 1. Download the tradeNetterExe.zip executable
 
